@@ -2,7 +2,8 @@
 
 ### Frontend Developer
 
-I am a frontend developer focused on creating user-friendly and intuitive web applications.
+Frontend developer focused on building user-friendly and intuitive web applications, with a growing interest in backend technologies and full-stack development.
+
 
 - 🌍 I'm based in Kathmandu, Nepal.
 - ✉️ You can contact me at rubypoudel3@gmail.com
